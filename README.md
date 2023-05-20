@@ -3,9 +3,12 @@
 
 
 ======================================Docker==========================================
-Ставить лучше по оф. доке
-	Установка движка https://docs.docker.com/engine/install/debian/
-	Установка DockerDesktop через .deb пакет https://docs.docker.com/desktop/install/ubuntu/
+# Ставить лучше по оф. доке
+	Установка движка 
+	https://docs.docker.com/engine/install/debian/
+	
+	Установка DockerDesktop через .deb пакет 
+	https://docs.docker.com/desktop/install/ubuntu/
 ======================================================================================
 	
 Дальше, чтобы работало, либо через systemctl запускать службу докера, либо просто DockerDesktop
