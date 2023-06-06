@@ -78,5 +78,8 @@
 	
 ## Проверка состояния кластера (локального)
 	kubectl cluster-info
+	
+## Проброс портов в миникуб
+	kubectl port-forward <pod-name> <pc-port>:<pod-port>
 
 	
